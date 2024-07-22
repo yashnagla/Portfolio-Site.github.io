@@ -173,3 +173,31 @@
 }
 
 /* End Brand Area */
+
+/* Start Srevices Area */
+
+.site-main .services-area{
+    padding: 7rem 2rem;
+}
+
+.site-main .services-area .service-title{
+    padding: 0rem 14rem;
+}
+
+.site-main .services-area .service-title h1{
+    font-size: 35px;
+}
+
+.site-main > .services-area .services{
+    background: rgba(248, 252, 253, 0.973);
+    padding: 2rem 0rem;
+    width: 16rem;
+    margin: 5rem 0.5rem;
+    transition: box-shadow 0.7s ease;
+}
+
+.site-main > .services-area .services:hover{
+    box-shadow: var(--box-shadow);
+}
+
+/* End Srevices Area */
